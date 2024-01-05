@@ -1,0 +1,8 @@
+.adjust {
+  display: flex;
+  flex-direction: row;
+}
+
+a {
+  margin-top: 20px;
+}

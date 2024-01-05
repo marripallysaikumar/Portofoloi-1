@@ -1,0 +1,41 @@
+.addProjectContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.heading {
+  font-size: 45px;
+  font-family: 'Bre Serif';
+  text-align: center;
+}
+.paragraph {
+  font-family: 'Roboto';
+}
+.input-sized {
+  width: 100%;
+  height: 39px;
+  border-radius: 9px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(75, 74, 74);
+}
+
+.btn-add {
+  text-align: right;
+}
+.textArea {
+  border-radius: 9px;
+  margin-bottom: 10px;
+  border: 1px solid rgb(75, 74, 74);
+}
+.btn-sizze {
+  color: black;
+  background-color: rgb(242, 246, 15);
+  border-width: 0px;
+  height: 40px;
+  width: 100px;
+  margin-right: 17px;
+  border-radius: 9px;
+  text-align: center;
+}

@@ -1,0 +1,80 @@
+.container {
+  min-height: 100vh;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-family: 'bree serif';
+}
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-between;
+}
+.head {
+  color: rgb(210, 142, 23);
+  font-family: 'Bree serif';
+}
+.head2 {
+  font-size: 45px;
+  font-family: 'Bree serif';
+}
+.para {
+  color: rgb(148, 147, 147);
+  font-size: 15px;
+}
+.btn-size {
+  height: 40px;
+  width: 100px;
+  margin-right: 17px;
+  border-radius: 9px;
+}
+.project {
+  color: black;
+  background-color: rgb(242, 246, 15);
+  border-width: 0px;
+}
+.linkedin {
+  border: 1px solid black;
+}
+.portfolio-img {
+  width: 100%;
+  height: 100%;
+}
+.one {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.two {
+  width: 40%;
+}
+.img-details {
+  display: flex;
+  justify-content: space-between;
+}
+.btn-size {
+  background-color: rgb(242, 246, 15);
+}
+.addProjectContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-size: 45px;
+  font-family: 'Bre Serif';
+}
+.paragraph {
+  font-family: 'Roboto';
+}
+.input-sized {
+  width: 390px;
+   height: 39px;
+}
